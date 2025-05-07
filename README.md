@@ -30,6 +30,14 @@ input-structure-korean-lm/
 
 ---
 
+## 🧾 Input Condition Summary
+
+![Input Condition Table](figures/input_conditions_table.png)
+
+This table summarizes the structure and origin of each training condition.
+
+---
+
 ## How to Run
 
 ### 1. Create environment
