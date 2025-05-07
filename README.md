@@ -22,9 +22,9 @@ The model used is GPT-2 (KoGPT2), fine-tuned under four training conditions:
 ```
 input-structure-korean-lm/
 ├── data/                  # Preprocessed training data (txt)
-├── scripts/               # Training scripts (.py)
-├── notebooks/             # Original Jupyter notebooks (.ipynb)
 ├── figures/               # Output graphs and condition descriptions
+├── notebooks/             # Original Jupyter notebooks (.ipynb)
+├── scripts/               # Training scripts (.py)
 ├── environment.yml        # Conda environment for reproducibility
 └── README.md
 ```
