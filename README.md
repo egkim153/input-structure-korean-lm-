@@ -77,5 +77,5 @@ Evaluation is done using **perplexity** as a proxy for grammar acquisition perfo
 ## Citation
 
 - Feng et al. (2024). *Is Child-Directed Speech Effective Training Data for Language Models?*
-- Haga et al. (2024). *). BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency.*
+- Haga et al. (2024). *BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency.*
 - Kim & Koo (2024). *Evaluating the Impact of Training Conditions on the Performance of GPT-2-Small Based Korean-English Bilingual Models.*
