@@ -4,10 +4,14 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
-  - pytorch
   - transformers
   - datasets
-  - matplotlib
   - pandas
+  - matplotlib
   - scikit-learn
   - jupyter
+  - tqdm
+  - pip
+  - pip:
+      - googletrans==4.0.0-rc1
+
