@@ -24,6 +24,7 @@ input-structure-korean-lm/
 ├── data/                  # Preprocessed training data (txt)
 ├── scripts/               # Training scripts (.py)
 ├── notebooks/             # Original Jupyter notebooks (.ipynb)
+├── figures/               # Output graphs and condition descriptions
 ├── environment.yml        # Conda environment for reproducibility
 └── README.md
 ```
