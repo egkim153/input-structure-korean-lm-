@@ -5,7 +5,7 @@ This repository accompanies the BUCLD abstract titled:
 
 ---
 
-## 📚 Project Overview
+## Project Overview
 
 We explore whether structured input—such as curriculum learning or translated child-directed speech—can improve the ability of language models to learn Korean grammar.  
 The model used is GPT-2 (KoGPT2), fine-tuned under four training conditions:
@@ -17,7 +17,7 @@ The model used is GPT-2 (KoGPT2), fine-tuned under four training conditions:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 input-structure-korean-lm/
@@ -30,7 +30,7 @@ input-structure-korean-lm/
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 ### 1. Create environment
 ```bash
@@ -48,7 +48,7 @@ python scripts/translated_training.py
 
 ---
 
-## 📊 Output
+## Output
 Each model was trained on 10,000 sentences for 3 epochs.  
 Evaluation is done using **perplexity** as a proxy for grammar acquisition performance.
 
@@ -65,7 +65,7 @@ Evaluation is done using **perplexity** as a proxy for grammar acquisition perfo
 
 ---
 
-## 📎 Citation
+## Citation
 
 - Haga et al. (2024). *). BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency.*
 - Feng et al. (2024). *Is Child-Directed Speech Effective Training Data for Language Models?*
