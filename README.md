@@ -1,6 +1,6 @@
 # Investigating the Effects of Input Structure on Korean Grammar Learning
 
-This repository accompanies the BUCLD 2024 abstract titled:  
+This repository accompanies the BUCLD abstract titled:  
 **"Investigating the Effects of Input Structure on Korean Grammar Learning in Language Models."**
 
 ---
@@ -40,13 +40,10 @@ conda activate korean-lm
 
 ### 2. Run training
 ```bash
-python scripts/train.py --condition original
-```
-
-You can also run each script individually:
-```bash
 python scripts/original_training.py
 python scripts/curriculum_training.py
+python scripts/variation_training.py
+python scripts/translated_training.py
 ```
 
 ---
